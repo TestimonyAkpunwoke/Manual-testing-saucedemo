@@ -3,8 +3,8 @@
 **Status:** Observed  
 **Module:** Inventory / Sorting  
 **Test Account:** `visual_user`  
-**Severity:** Undetermined  
-**Priority:** Undetermined  
+**Severity:** Minor  
+**Priority:** Low
 **Related Requirement:** REQ-05
 
 ## Environment
