@@ -39,11 +39,8 @@ Poor button discoverability may make the next step in the purchase flow less int
 
 ## Evidence
 
-- Screenshot: [Insert actual screenshot path or filename]
+- Screenshot: evidence/Screenshots/checkout button.png
 
-## Related Test Case
-
-- [Insert the relevant checkout navigation test case ID]
 
 ## Notes
 
