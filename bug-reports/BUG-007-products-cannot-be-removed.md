@@ -38,14 +38,6 @@ Some products could not be removed from the inventory page, according to the rec
 
 Users may be unable to correct their cart selections from the inventory page.
 
-## Evidence
-
-- Screenshot: [Insert actual screenshot path or filename]
-
-## Related Test Case
-
-- [Insert the relevant cart removal test case ID]
-
 ## Notes
 
 Identify the affected product or products using your existing evidence if available.
