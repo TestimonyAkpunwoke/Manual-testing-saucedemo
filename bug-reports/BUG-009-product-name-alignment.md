@@ -38,11 +38,8 @@ Inconsistent alignment reduces visual consistency and can make the inventory pag
 
 ## Evidence
 
-- Screenshot: [Insert actual screenshot path or filename]
+- Screenshot: evidence/Screenshots/text and image misalignment.png
 
-## Related Test Case
-
-- [Insert the relevant inventory display test case ID]
 
 ## Notes
 
