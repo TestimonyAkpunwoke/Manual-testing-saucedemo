@@ -3,8 +3,8 @@
 **Status:** Observed — specific failing options to be recorded  
 **Module:** Inventory / Sorting  
 **Test Account:** `problem_user`  
-**Severity:** Undetermined  
-**Priority:** Undetermined  
+**Severity:** Minor  
+**Priority:** High  
 **Related Requirement:** REQ-05
 
 ## Environment
