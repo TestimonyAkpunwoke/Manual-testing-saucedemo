@@ -39,14 +39,6 @@ The application accepted punctuation in the First Name field, according to the r
 
 If punctuation-only names are prohibited, this behavior may allow invalid customer information into checkout.
 
-## Evidence
-
-- Screenshot: [Insert actual screenshot path or filename]
-
-## Related Test Case
-
-- [Insert the relevant checkout validation test case ID]
-
 ## Notes
 
 The current requirement does not explicitly define allowed characters. Confirm the intended rule before classifying this observation as a confirmed defect.
