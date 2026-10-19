@@ -41,11 +41,11 @@ The behavior may prevent users from completing checkout if valid last-name input
 
 ## Evidence
 
-- Screenshot: [Insert actual screenshot path or filename]
+- Screenshot: 
 
 ## Related Test Case
 
-- [Insert the relevant checkout validation test case ID]
+- 
 
 ## Notes
 
