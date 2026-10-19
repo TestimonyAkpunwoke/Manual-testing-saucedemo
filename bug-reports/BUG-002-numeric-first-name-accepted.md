@@ -9,10 +9,10 @@
 
 ## Environment
 
-- Application: [SauceDemo](https://www.saucedemo.com/)
-- Browser: Edge
-- Operating System: Windows 11/155
-- Test Date: 18th october, 2026
+- Application: SauceDemo — https://www.saucedemo.com/
+- Browser: edge
+- Operating system: Windows 11-25H2/ 26200.9711
+- Test date: 18th October 2026
 
 ## Preconditions
 
