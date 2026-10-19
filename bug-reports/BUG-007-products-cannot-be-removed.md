@@ -3,8 +3,8 @@
 **Status:** Observed  
 **Module:** Inventory / Cart  
 **Test Account:** `problem_user`  
-**Severity:** Undetermined  
-**Priority:** Undetermined  
+**Severity:** Minor  
+**Priority:** High  
 **Related Requirement:** REQ-06
 
 ## Environment
