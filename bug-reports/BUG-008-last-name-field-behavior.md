@@ -3,8 +3,8 @@
 **Status:** Observed — exact behavior to be described from evidence  
 **Module:** Checkout Information  
 **Test Account:** `problem_user`  
-**Severity:** Undetermined  
-**Priority:** Undetermined  
+**Severity:** Major  
+**Priority:** Low  
 **Related Requirement:** REQ-08
 
 ## Environment
