@@ -3,8 +3,8 @@
 **Status:** Observed  
 **Module:** Inventory / Sorting  
 **Test Account:** `visual_user`  
-**Severity:** Undetermined  
-**Priority:** Undetermined  
+**Severity:** Minor  
+**Priority:** Low  
 **Related Requirement:** REQ-05
 
 ## Environment
@@ -37,10 +37,4 @@ The price low-to-high sorting option did not work correctly, according to the re
 
 Users may be unable to compare products in ascending price order.
 
-## Evidence
 
-- Screenshot: [Insert actual screenshot path or filename]
-
-## Related Test Case
-
-- [Insert the price low-to-high sorting test case ID]
