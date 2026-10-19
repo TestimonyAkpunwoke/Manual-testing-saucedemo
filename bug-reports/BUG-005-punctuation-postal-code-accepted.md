@@ -3,8 +3,8 @@
 **Status:** Observed — validation rule needs confirmation  
 **Module:** Checkout Information  
 **Test Account:** `standard_user`  
-**Severity:** Undetermined  
-**Priority:** Undetermined  
+**Severity:** Major  
+**Priority:** High  
 **Related Requirement:** REQ-08
 
 ## Environment
