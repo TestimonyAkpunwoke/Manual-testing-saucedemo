@@ -1,1 +1,27 @@
 
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+~$*.xlsx
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python-generated files (if used later)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
