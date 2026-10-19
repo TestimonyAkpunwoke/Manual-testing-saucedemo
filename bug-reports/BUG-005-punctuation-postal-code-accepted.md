@@ -39,14 +39,6 @@ The application accepted punctuation in the Postal Code field, according to the 
 
 If punctuation-only postal codes are invalid under the application's requirements, accepting them may allow invalid checkout information.
 
-## Evidence
-
-- Screenshot: [Insert actual screenshot path or filename]
-
-## Related Test Case
-
-- [Insert the relevant checkout validation test case ID]
-
 ## Notes
 
 Confirm the expected postal-code format before classifying this observation as a confirmed defect.
