@@ -38,13 +38,6 @@ Inventory sorting did not behave correctly for `problem_user`, according to the 
 
 Incorrect sorting makes it harder for users to find and compare products.
 
-## Evidence
-
-- Screenshot: [Insert actual screenshot path or filename]
-
-## Related Test Case
-
-- [Insert the relevant test case ID or IDs]
 
 ## Notes
 
