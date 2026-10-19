@@ -34,14 +34,14 @@ Complete this table using the actual results recorded in the test execution spre
 
 | Metric | Result |
 |---|---:|
-| Total test cases | 54 |
-| Executed | 54 |
-| Passed | 43 |
-| Failed | 11 |
-| Blocked | 0 |
-| Not run | 0 |
+| Requirements | 11 |
+| Original planned test case | 43 |
+| Original executed test cases | 43 |
+| Original passed | 43 |
+| Original failed | 0 |
+| Additional exploratory tests | 11 |
 
-**Execution notes:** [Summarise any relevant constraints or interruptions.]
+
 
 Do not count exploratory observations as formal test cases unless they were recorded as such in your execution records.
 
@@ -49,10 +49,10 @@ Do not count exploratory observations as formal test cases unless they were reco
 
 Requirement coverage was assessed using the Requirements Traceability Matrix (RTM).
 
-- Total requirements: [Actual count]
-- Requirements covered by test cases: [Actual count]
-- Requirements with recorded execution results: [Actual count]
-- Requirements requiring further testing: [Actual count, if applicable]
+- Total requirements: 11
+- Requirements covered by test cases: 11
+- Requirements with recorded execution results: 11
+- Requirements requiring further testing: 0
 
 Refer to the RTM for the mapping between requirements, test cases and execution results.
 
@@ -104,11 +104,7 @@ Defect counts and statuses should be taken from the final bug report records. Do
 
 ## 9. Overall Assessment
 
-**Assessment:** [Complete after reviewing the execution results and outstanding findings.]
-
-Summarise the most important results, unresolved issues and areas requiring further testing.
-
-If making a release recommendation, base it on the actual execution results, defect severity, business impact and applicable acceptance criteria. Do not declare the application ready or unready without sufficient evidence.
+**Assessment:**
 
 ## 10. Conclusion
 
