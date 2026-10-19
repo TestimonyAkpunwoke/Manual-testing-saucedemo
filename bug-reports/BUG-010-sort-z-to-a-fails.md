@@ -37,10 +37,3 @@ The Z–A sorting option did not work correctly, according to the recorded obser
 
 Users may be unable to locate products using reverse alphabetical sorting.
 
-## Evidence
-
-- Screenshot: [Insert actual screenshot path or filename]
-
-## Related Test Case
-
-- [Insert the Z–A sorting test case ID]
