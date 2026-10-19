@@ -3,8 +3,8 @@
 **Status:** Observed — usability concern  
 **Module:** Cart / Checkout UI  
 **Test Account:** `visual_user`  
-**Severity:** Undetermined  
-**Priority:** Undetermined  
+**Severity:** Major  
+**Priority:** High  
 **Related Requirement:** REQ-08 (indirect)
 
 ## Environment
