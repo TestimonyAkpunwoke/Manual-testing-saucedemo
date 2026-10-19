@@ -41,11 +41,7 @@ If the application requires a particular postal-code format, accepting unsupport
 
 ## Evidence
 
-- Screenshot: [Insert actual screenshot path or filename]
-
-## Related Test Case
-
-- [Insert the relevant checkout validation test case ID]
+- Screenshot: evidence/Screenshots/wrong password.png
 
 ## Notes
 
