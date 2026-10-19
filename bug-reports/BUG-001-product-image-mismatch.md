@@ -39,15 +39,12 @@ The backpack product displays a dog image instead of the expected backpack image
 
 Attach or reference the screenshot captured during testing:
 
-`[Insert the actual screenshot filename or repository path]`
+`evidence/Screenshots/text and image misalignment.png`
 
 ## Impact
 
 The incorrect image can confuse users about the product being displayed and reduces the accuracy and consistency of the product catalogue.
 
-## Related test case
-
-[Insert the relevant inventory image test case ID from the test cases spreadsheet.]
 
 ## Notes
 
